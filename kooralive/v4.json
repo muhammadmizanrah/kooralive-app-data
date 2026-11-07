@@ -1,0 +1,29 @@
+{
+    "schema": 1,
+    "type": "kooralive_config",
+    "app": "kooralive",
+    "version": 4,
+    "generated_at": "2026-11-07T20:58:09+00:00",
+    "config": {
+        "min_android_build": 0,
+        "update_url_android": "https://play.google.com/store/apps/details?id=sports.kooralive.app",
+        "maintenance": false,
+        "maintenance_ar": "",
+        "maintenance_en": "",
+        "notice_enabled": false,
+        "notice_key": "",
+        "notice_ar": "",
+        "notice_en": "",
+        "notice_url": "",
+        "promo_enabled": false,
+        "promo_key": "",
+        "promo_title_ar": "",
+        "promo_title_en": "",
+        "promo_body_ar": "",
+        "promo_body_en": "",
+        "promo_button_ar": "",
+        "promo_button_en": "",
+        "promo_url": "",
+        "rating_enabled": true
+    }
+}
