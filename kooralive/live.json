@@ -1,8 +1,8 @@
 {
-    "version": 2,
-    "sha256": "0ffb6945d6e249a3d4f7d5b1825ba7804a05cc404253ee79025f3d48b2392f7e",
-    "signature": "ed25519:h8mBlFT/PRzkpHkmQc+2yNDcwxpyNaCIl0xW8w/g3dFi5YgD8S3vt4FAs9r6QCkO299zidwbOxfbYFo2EsCIDg==",
-    "bytes": 887,
-    "published_at": "2026-11-07T20:55:10+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/kooralive-app-data@36e057e/kooralive/v2.json"
+    "version": 3,
+    "sha256": "ac77a0b09a90ab3370ddaa0d250f5e32e694ae65e60c2847804c12d868d3e084",
+    "signature": "ed25519:fPNMvJMYyMcN96EhcswkYsxYRow2Rz98TzFy9MQmU1MOmqgjt7Y4oE8gIM29szAOZSlaADZmW1u+anDXBxOSAQ==",
+    "bytes": 1021,
+    "published_at": "2026-11-07T20:56:29+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/kooralive-app-data@b4e060f/kooralive/v3.json"
 }
